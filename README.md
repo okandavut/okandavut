@@ -22,7 +22,7 @@ I'm Okan DAVUT. Frontend Developer at @OSFDigital I'm  a **continuously learning
     <img align="left" alt="Okan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
   </a> -->
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working with JavaScript;
 - 🌱 I’m currently learning React and NodeJS; 
