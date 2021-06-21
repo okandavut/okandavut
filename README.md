@@ -27,7 +27,7 @@ I'm Okan DAVUT. Frontend Developer at @OSFDigital I'm  a **continuously learning
 - 👨🏽‍💻 I’m currently working with JavaScript;
 - 🌱 I’m currently learning React and NodeJS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: davut.okan@gmail.com;
+- 📫 Reach me at davut.okan@gmail.com;
 - 📝[Resume](https://docs.google.com/document/d/1It-JhzC6MY4hz2e6TdfOwLX4zAwq5dtayz-AgcX23bM/edit?usp=sharing)
 
 
