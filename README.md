@@ -24,9 +24,9 @@ I'm Okan DAVUT. Frontend Developer at @OSFDigital I'm a developer that **learnin
   
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working with JavaScript,React and Frontend Part of Web;
-- 🌱 I’m currently learning React and NodeJS; 
-- ⏯️ I'm taking Youtube videos about my work and experiences [Youtube Channe](https://youtube.com/okandavut)
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Reach me at davut.okan@gmail.com;
-- 📝 [Resume](https://docs.google.com/document/d/1It-JhzC6MY4hz2e6TdfOwLX4zAwq5dtayz-AgcX23bM/edit?usp=sharing)
+- 👨🏽‍💻  I’m currently working with JavaScript,React and Frontend Part of Web;
+- 🌱  I’m currently learning React and NodeJS; 
+- ⏯️  I'm taking Youtube videos about my work and experiences [Youtube Channel](https://youtube.com/okandavut)
+- 💬  Ask me about anything, I am happy to help;
+- 📫  Reach me at davut.okan@gmail.com;
+- 📝  [Resume](https://docs.google.com/document/d/1It-JhzC6MY4hz2e6TdfOwLX4zAwq5dtayz-AgcX23bM/edit?usp=sharing)
