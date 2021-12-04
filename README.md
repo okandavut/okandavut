@@ -1,7 +1,7 @@
 ### Hi! It's Okan. 👋
 
   
-I'm Okan DAVUT. Frontend Developer at @OSFDigital I'm a developer that **learning continuously** and i try to share about things that i learned.(Blog, Youtube Channel and Conference Talks)
+I'm Okan DAVUT. Frontend Engineer. I'm a engineer that **learning continuously** and i try to share about things that i learned.(Blog, Youtube Channel and Conference Talks)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.linkedin.com/in/okan-davut">
     <img align="left" alt="Okan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
